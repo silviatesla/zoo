@@ -2,5 +2,6 @@
 *.txt
 #Para no ignorar el fichero animales.txt: 
 !/animales.txt
+!/principal.txt
 
 
